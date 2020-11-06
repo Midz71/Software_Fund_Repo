@@ -49,6 +49,7 @@ Once it's been installed fully, run the following commands in the anaconda comma
 * pip install pygame
 * pip install numpy
 * python -m pip install --upgrade pip
+
 Refer to the requirements.txt file to ensure that you have all the packages required for the game.
 
 ## Suggested improvements for the future
