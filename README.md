@@ -35,7 +35,7 @@ Once the game is concluded, there will be an option to "click to continue" so th
 To use the game, simply open up the game file in a Python supported IDLE that has IPython for the user interactions post-startup. 
 Once the pre-requisites are met, the steps are the following:
 
-* run the source code
+* run the source code in Spyder
 * enter a name for the player 
 * choose a number between 0 and 2 for the difficulty of the CPU
 * once the game launches, the CPU will automatically have the first turn and the game will tell you how to take your turn
@@ -44,6 +44,12 @@ Once the pre-requisites are met, the steps are the following:
 
 ## Setup
 
+Using the www.anaconda.com website, you can download both Anaconda & Spyder directly from the website. After doing so, run the installers through until the end where you can successfully open up and use the applications.
+Once it's been installed fully, run the following commands in the anaconda command line
+* pip install pygame
+* pip install numpy
+* python -m pip install --upgrade pip
+Refer to the requirements.txt file to ensure that you have all the packages required for the game.
 
 ## Suggested improvements for the future
 
