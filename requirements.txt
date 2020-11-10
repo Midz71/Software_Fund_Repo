@@ -38,6 +38,7 @@ Again, follow through the instructions until it has been successfully installed,
 When finished, open up the anaconda3 terminal and run the following code:
 - pip --version                                              # to check the version of pip you are using
 - pip install pygame                                         # to install the pygame module
+- pip install numpy                                          # to install the numpy module
 - conda update anaconda                                      # to ensure you have the latest working version of Anaconda
 - conda update spyder / pip install --upgrade spyder         # to ensure you have the latest working version of Spyder
 
